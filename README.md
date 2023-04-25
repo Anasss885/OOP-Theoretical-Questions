@@ -1,2 +1,2 @@
 # OOP-Theoretical-Questions
-Solving a Pack of theoretical OOP and OOD Problems from Different Resources  
+Solving a Pack of theoretical Problems with OOP Concepts from Different Resources
